@@ -5,7 +5,7 @@
 **Equipo:** Totoritas del Perú.
 Integrantes:
 - Manuel Aguirre
--
+- Diego Godoy
 -
 -
 -
