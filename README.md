@@ -4,7 +4,7 @@
 **Profesor:** Alan Morante · Ciclo 2026-2
 **Equipo:** Totoritas del Perú.
 Integrantes:
-- 
+- Manuel Aguirre
 -
 -
 -
