@@ -6,9 +6,9 @@
 Integrantes:
 - Manuel Aguirre
 - Diego Godoy
--
--
--
+- Giraldo Ruiz
+- Dayanara Rodriguez
+- Monika Santivañez
 ---
 
 ## 1. Problema de negocio
