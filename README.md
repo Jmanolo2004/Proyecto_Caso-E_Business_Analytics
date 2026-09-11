@@ -8,7 +8,7 @@ Integrantes:
 - Diego Godoy
 - Giraldo Ruiz
 - Dayanara Rodriguez
-- Monika Santivañez
+- Giancarlos Martell
 ---
 
 ## 1. Problema de negocio
