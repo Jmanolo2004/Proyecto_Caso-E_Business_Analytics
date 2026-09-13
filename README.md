@@ -142,4 +142,4 @@ Documento borrador de máx. 2 páginas:
 ---
 
 ## 8. Estructura del repositorio
-
+**Link del drive con los datasets: https://drive.google.com/drive/folders/13gvGw5V5oPTFf6o53pMT7F-mq-XEDzU7**
